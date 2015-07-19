@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mark Your Market</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+   <string-array name="categories">
+       		<item>Click To Select Category</item>
+        	<item>Automobile Component</item>
+        	<item>Coir Industries</item>
+        	<item>Food Processing</item>
+        	<item>Food Products</item>
+        	<item>Gem And Jewellery</item>
+        	<item>Leather</item>
+        	<item>Marine Products</item>
+        	<item>Non-Electrical Machinery</item>
+        	<item>Paper and Printing</item>
+        	<item>Pharmaceuticals</item>
+        	<item>ReadyMade Garments</item>
+        	<item>Textile</item>
+        	<item>Tools</item>	
+    </string-array>
+</resources>
